@@ -1,5 +1,5 @@
 ## Hello, I'm Marcos
-**<p>Software Enginnering student</p>**
+**<p>Software Enginnering student:</p>**
 
 <p style="text-align: justify;">
   As a programmer, my goal is to make the world<br>
@@ -13,8 +13,7 @@
   the future.
 </p>
 
-
-  <p>
+<p>
     
   **My LinkedIn page:**
   </p> 
@@ -39,5 +38,9 @@
 <img src="https://img.shields.io/badge/Burp_Suite-202B2A?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 
 <hr>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="width: 80px; height: auto;"/>
 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="width: 80px; height: auto;"/>‎
+
+
+
+
