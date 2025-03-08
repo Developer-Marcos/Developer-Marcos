@@ -1,4 +1,4 @@
-## Hello, I'm Marcos
+## Hello, I'm Marcos :mortar_board:
 **<p>Software Enginnering student:</p>**
 
 <p style="text-align: justify;">
@@ -15,7 +15,7 @@
 
 <p>
     
-  **My LinkedIn page:**
+  :email: **My LinkedIn page:**
   </p> 
   
   <a href="https://www.linkedin.com/in/marcos-gab/" style="display: inline;">
@@ -26,7 +26,7 @@
 
 <p>
   
-  **Languages and Tools:**
+  :wrench: **Languages and Tools:**
 </p>
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
