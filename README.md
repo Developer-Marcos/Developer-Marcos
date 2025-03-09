@@ -8,7 +8,9 @@
 </p>
 
 
-<img src="https://github.com/Developer-Marcos/Developer-Marcos/blob/main/necessary-disorder.gif" alt="gif" />
+<img src="https://github.com/Developer-Marcos/Developer-Marcos/blob/main/necessary-disorder.gif" alt="gif" width="250" align="right">
+
+
 
 
 <p style="text-align: justify;">
