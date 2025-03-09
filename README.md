@@ -7,6 +7,10 @@
   on this transformative proposal.
 </p>
 
+<p align="right">
+  <img src="necessary-disorder.gif" width="200">
+</p>
+
 <p style="text-align: justify;">
   I intend to specialize in artificial intelligence <br>
   and work with cutting-edge technologies in <br>
