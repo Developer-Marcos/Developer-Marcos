@@ -8,9 +8,7 @@
 </p>
 
 
-
-![me](necessary-disorder.gif)
-
+<img src="https://github.com/Developer-Marcos/Developer-Marcos/blob/main/necessary-disorder.gif" alt="gif" />
 
 
 <p style="text-align: justify;">
