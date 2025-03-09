@@ -7,9 +7,10 @@
   on this transformative proposal.
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Developer-Marcos/Developer-Marcos/main/necessary-disorder.gif" width="200">
-</p>
+
+
+![me](necessary-disorder.gif)
+
 
 
 <p style="text-align: justify;">
