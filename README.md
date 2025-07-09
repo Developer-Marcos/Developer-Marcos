@@ -43,7 +43,9 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 <img src="https://img.shields.io/badge/Burp_Suite-202B2A?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)<br>
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 
 <hr>
