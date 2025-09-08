@@ -36,7 +36,7 @@
 
 <p>
   
-  :wrench: **Other tools:**
+  :briefcase: **Other tools:**
 </p>
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
