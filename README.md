@@ -1,5 +1,5 @@
 ## Hello, I'm Marcos :mortar_board:
-**<p>Software Enginnering student at <a href="https://www.fiap.com.br/graduacao/"> FIAP </a>:</p>**
+**<p>Software Engineering student at <a href="https://www.fiap.com.br/graduacao/"> FIAP </a>:</p>**
 
 <p style="text-align: justify;">
   Developer focused on intelligent systems and innovative solutions.<br>
