@@ -27,11 +27,19 @@
 
 <p>
   
-  :wrench: **Main tools:**
+  :speech_balloon: **Main Language:**
+  
 </p>
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+
+<p>
+  
+  :wrench: **Main tools:**
+</p>
+
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-003366?style=flat-square&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 
