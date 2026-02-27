@@ -2,9 +2,8 @@
 **<p>Software Engineering student at <a href="https://www.fiap.com.br/graduacao/"> FIAP </a>:</p>**
 
 <p style="text-align: justify;">
-  Developer focused on intelligent systems and innovative solutions.<br>
-  I'm passionate about cutting-edge technologies and high-impact<br>
-  projects, always staying up-to-date.
+Building scalable AI Agents, RAG pipelines, and intelligent systems. <br>
+Focused on LLMOps and multi-agent architectures using Python and LangGraph.
 </p>
 
 <p style="text-align: justify;">
