@@ -7,8 +7,6 @@
   projects, always staying up-to-date.
 </p>
 
-<img src="https://github.com/Developer-Marcos/Developer-Marcos/blob/main/necessary-disorder.gif" alt="gif" width="250" align="right">
-
 <p style="text-align: justify;">
   I have a lot of contact with artificial intelligence and<br>
   intelligent agents, mainly with orchestration of AI models.
@@ -60,7 +58,6 @@
 ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
 
 <hr>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" style="width: 80px; height: auto;"/>
