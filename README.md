@@ -42,21 +42,30 @@ Focused on LLMOps and multi-agent architectures using Python and LangGraph.
 
 <p>
   
-  :briefcase: **Other tools:**
+  🔩 **Other tools:**
 </p>
 
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)<br>
-![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)<br>
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-B9D8F4?style=flat-square&logo=tailwind-css)<br>
+![Tailwind](https://img.shields.io/badge/-Tailwind-B9D8F4?style=flat-square&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 <img src="https://img.shields.io/badge/Burp_Suite-202B2A?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+
+<p>
+  
+  :briefcase: **Infrastructure & Database:**
+</p>
+
+  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white) <br>
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)<br>
+  ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
+
 
 
 <hr>
