@@ -62,8 +62,9 @@ Focused on LLMOps and multi-agent architectures using Python and LangGraph.
 
   ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white) <br>
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)<br>
+  ![Pytest](https://img.shields.io/badge/-Pytest-%230A9EDC?style=flat-square&logo=pytest&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white) <br>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 
 
